@@ -68,7 +68,7 @@ const MONGODB_URI =
   const authRoutes = require('./routes/auth');
 
   // app.use(helmet());
-  app.use(compression());
+  // app.use(compression());
   app.use(morgan('combined',{stream:accessLogStream}));
 
    
