@@ -1,8 +1,9 @@
 # NodeApp
-- This webapp implements the little tasks of ecommerce websites.
+- This project implements the little tasks of ecommerce websites.
 - You can signup ,login, create orders, place orders, make payments etc.
-- This WebApp implements MVC architecture by using Models,Routes and Controllers.
-
+- This projects implements MVC architecture by using Models,Routes and Controllers.
+## Project Link
+https://ecommerce-web-app2.herokuapp.com/
 ## Technology used
 #### Front End - 
 - VanillaJS+HTML ,FrontEnd uses EJS(Embedded JavaScript Templates) templating engine to display dynamic content.
@@ -11,6 +12,8 @@
 #### DataBase -
 - MongoDB
 - Uses Mongoose (MongoDB object modeling tool designed to work in an asynchronous environment)
+#### Hosting Platform -
+- Heroku
 #### Payement Gateway -
 - Stripe Payment Gateway
 #### Screenshots
