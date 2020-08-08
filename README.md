@@ -13,3 +13,8 @@
 - Uses Mongoose (MongoDB object modeling tool designed to work in an asynchronous environment)
 #### Payement Gateway -
 - Stripe Payment Gateway
+#### Screenshots
+
+![](images/ss1.png)
+![](images/ss2.png)
+![](images/ss3.png)
